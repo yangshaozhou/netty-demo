@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+  netty:
+    timeout: 6000 #?????
+    port: 1024
+    host: 127.0.0.1
+
+
+
+
